@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,1000;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet');
+
+ :root {
+     --pbmit-global-color:  #518ccb;
+     --pbmit-secondary-color: #000000;
+     --pbmit-light-color: #d8dee6;
+     --pbmit-white-color:#ffffff;
+     --pbmit-blackish-color: #0e3762;
+     --pbmit-link-color-normal: #0e3762;
+     --pbmit-link-color-hover:#518ccb;
+     --pbmit-global-color-rgb:rgb(81, 140, 203);
+     --pbmit-secondary-color-rgb: rgb(0, 0, 0);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family: 'DM Sans', sans-serif;
+     --pbmit-body-typography-variant: 500;
+     --pbmit-body-typography-font-size: 16px;
+     --pbmit-body-typography-line-height: 1.6;
+     --pbmit-body-typography-color: #666666;
+     --pbmit-heading-typography-font-family: 'IBM Plex Serif', serif;
+     --pbmit-heading-color: #0e3762;
+     --pbmit-heading-font-variant: normal;
+     --pbmit-btn-typography-font-family: 'DM Sans', sans-serif;
+     --pbmit-btn-typography-variant: 500;
+     --pbmit-btn-typography-font-size: 13px;
+     --pbmit-btn-typography-line-height: 24px;
+}
+
